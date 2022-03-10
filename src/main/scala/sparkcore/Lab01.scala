@@ -6,6 +6,6 @@ object Lab01 {
   
   def main(args:Array[String]) =
   {
-    println("In maven build, checking git, remote")
+    println("In maven build, checking git, remote, check")
   }
 }
